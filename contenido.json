@@ -1,0 +1,27 @@
+{"contenido":[
+        {"tag":"saludo",
+            "patrones":["Hola","Un saludo","Hello"],
+            "respuestas":["Hola que tal!","Como te va?","Un gusto verte"]
+        },
+        {"tag":"despedida",
+            "patrones":["Adios","Hasta la proxima","nos vemos"],
+            "respuestas":["Cuidate","Nos vemos pronto","Te estare esperando"]
+        },
+        {"tag":"fechasclases",
+            "patrones":["Fechas de clases","Fechas de ingreso"],
+            "respuestas":["Comienzo: 10/Agosto y Finalizacion: 28/Noviembre, pero las fechas podrian variar"]
+        },
+        {"tag":"crucehorario",
+            "patrones":["Cruce de horario","Se me cruza en horario","Se me cruzan materias"],
+            "respuestas":["En ese caso debes dirigirte a Registro y Control"]
+        },
+        {"tag":"asignaturas",
+            "patrones":["En que horarios se encuentran las asignturas?","horas de asignaturas","asignaturas"],
+            "respuestas":["En este momento no tengo esa informacion"]
+        },
+        {"tag":"groserias",
+            "patrones":["puta","marica","mk","fuck","fk","mother fucker","madafaka","mdfk","gonorrea","mierda","pirobo","piroba","perra"],
+            "respuestas":["No tolerare esas palabras","No me gusta tu actitud"]
+        }
+    ]
+}
